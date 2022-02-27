@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { NavigationContainer } from '@react-natigation/native';
+import { NavigationContainer } from '@react-navigation/native';
 import { NativeBaseProvider } from 'native-base';
 
 type Props = {
